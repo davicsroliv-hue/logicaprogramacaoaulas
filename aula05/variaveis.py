@@ -19,4 +19,4 @@ while True:
             continue
    except Exception as e:
     print(f'Não foi possível executar a operação {e}')
-    continue              
+    continuegit              
