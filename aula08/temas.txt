@@ -1,0 +1,35 @@
+[personagens_starwars]
+darth vader
+yoda
+luke skywalker
+princesa leia
+han solo
+chewbacca
+r2d2
+c3po
+palpatine
+obi wan kenobi
+
+[superherois_marvel]
+homem aranha
+homem de ferro
+thor
+hulk
+viuva negra
+capitao america
+doutor estranho
+pantera negra
+wolverine
+deadpool
+
+[animais_domesticos]
+cachorro
+gato
+papagaio
+hamster
+coelho
+peixe
+porquinho da india
+calopsita
+cavalo
+tartaruga
